@@ -1,0 +1,17 @@
+#app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+input,
+button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+input {
+  width: 200px;
+}
+#message {
+  font-weight: bold;
+}
